@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Blog\\Api.csproj": {}
+    "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Blog\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Blog\\Api.csproj": {
+    "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Blog\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Blog\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Blog\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Blog\\Api.csproj",
+        "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Blog\\Api.csproj",
         "packagesPath": "C:\\Users\\chunwyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Blog\\obj\\",
+        "outputPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Blog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chunwyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Core\\Core.csproj"
+              "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Core\\Core.csproj"
               },
-              "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\infra\\Infra.csproj": {
-                "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\infra\\Infra.csproj"
+              "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\infra\\Infra.csproj": {
+                "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\infra\\Infra.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Core\\Core.csproj": {
+    "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\chunwyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Core\\obj\\",
+        "outputPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chunwyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\infra\\Infra.csproj": {
+    "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\infra\\Infra.csproj",
+        "projectUniqueName": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\infra\\Infra.csproj",
+        "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\chunwyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\infra\\obj\\",
+        "outputPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chunwyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -163,8 +163,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Core\\Core.csproj"
+              "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Core\\Core.csproj"
               }
             }
           }

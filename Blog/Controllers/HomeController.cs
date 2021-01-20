@@ -11,7 +11,7 @@ namespace Api.Controllers
         [Route("api/ping")]
         public IActionResult Index()
         {
-            return Ok("Let Refresh us everyday and go on!!!");
+            return Ok("Do a little things everyday!!");
         }
     }
 }

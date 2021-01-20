@@ -11893,11 +11893,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Blog\\Api.csproj",
+      "projectUniqueName": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Blog\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Blog\\Api.csproj",
+      "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Blog\\Api.csproj",
       "packagesPath": "C:\\Users\\chunwyu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Blog\\obj\\",
+      "outputPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Blog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chunwyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11915,11 +11915,11 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Core\\Core.csproj"
+            "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Core\\Core.csproj"
             },
-            "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\infra\\Infra.csproj": {
-              "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\infra\\Infra.csproj"
+            "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\infra\\Infra.csproj": {
+              "projectPath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\infra\\Infra.csproj"
             }
           }
         }

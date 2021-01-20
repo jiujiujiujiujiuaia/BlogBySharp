@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qvl5s2EW2VW9+1ksxdJBYzsU8LWjXOWHIrmqywGWZOGo4ilRlAWRrNR6CExySnqb/ekj/zYCoKSjW3dgBIDu0w==",
+  "dgSpecHash": "7mI0D0xQ66aAL7udTzWWoIgkpi6Gz0MCK0t8FM3iC2CQJCzcimOd0d9XGW0uFXDRV2mOyL8Yq4BJ7S0+09IscA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\Blog\\Blog\\Api.csproj",
+  "projectFilePath": "C:\\Users\\chunwyu\\Desktop\\workspace\\CSharpCode\\BlogBySharp\\Blog\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chunwyu\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\chunwyu\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
