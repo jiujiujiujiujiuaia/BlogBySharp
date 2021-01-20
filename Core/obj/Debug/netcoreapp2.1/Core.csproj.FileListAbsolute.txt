@@ -1,0 +1,8 @@
+C:\Users\chunwyu\Desktop\workspace\CSharpCode\Blog\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Users\chunwyu\Desktop\workspace\CSharpCode\Blog\Core\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\chunwyu\Desktop\workspace\CSharpCode\Blog\Core\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\chunwyu\Desktop\workspace\CSharpCode\Blog\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Users\chunwyu\Desktop\workspace\CSharpCode\Blog\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+C:\Users\chunwyu\Desktop\workspace\CSharpCode\Blog\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\chunwyu\Desktop\workspace\CSharpCode\Blog\Core\obj\Debug\netcoreapp2.1\Core.dll
+C:\Users\chunwyu\Desktop\workspace\CSharpCode\Blog\Core\obj\Debug\netcoreapp2.1\Core.pdb
